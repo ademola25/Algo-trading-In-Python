@@ -1,1 +1,1 @@
-# Algotrading-In-Python
+# Python Algorithmic Trading Bot
